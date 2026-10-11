@@ -5,7 +5,7 @@ This is my bunny shaped starbie!!
 
 # design
 This project was my first time working with Kicad and design a pcb. I went for a pixel bunny shaped design. It was kind of hard to arrange all the items in the bunny shape. My first plan was to put all the items on the side and add a large image on the right, but that made it hard to route everything. So, I moved them around. But also it took me WAYYYY to long to realize that you could route on the back, and after I figured that out it was easier. 
-<img width="974" height="892" alt="Screenshot 2026-10-08 212150" src="https://github.com/user-attachments/assets/196867c5-8188-444a-b336-004d0d7f3275" />
+<img width="863" height="905" alt="Screenshot 2026-10-10 194102" src="https://github.com/user-attachments/assets/13da3586-b21e-49c9-895b-6dec8ad1cb01" />
 
 # sprite
 I also made my own bunny sprite to match my bunny starbie shape. This pixel art was hard to get right and the portions were hard to scale correctly. But I think it came out good still.
